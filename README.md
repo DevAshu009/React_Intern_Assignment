@@ -58,3 +58,9 @@ Usage
 Home Page: Displays a paginated list of posts with a search bar to filter posts by title.
 Post Details Page: Click "Read More" on any post to view detailed information about it.
 Pagination: Navigate between pages using "Previous" and "Next" buttons.
+
+![Screenshot 2025-02-20 095007](https://github.com/user-attachments/assets/714da011-62b3-485e-a2af-ae1bf6b9ef8a)
+
+![Screenshot 2025-02-20 095031](https://github.com/user-attachments/assets/db1fbe6b-5a95-45a6-84ba-a0cdfeb5c0b1)
+![Screenshot 2025-02-20 095048](https://github.com/user-attachments/assets/7c10a5bd-fc5f-4d46-8210-9920503fab1f)
+
